@@ -24,12 +24,7 @@
 
 /* Posititoning Classes */
 
-.shadow h2 {
-  color: brown;
-}
-
-.shadow col-1 2014 {
+.col-1 {
   float: left;
-  background: yellow;
-  width: 33.333%;
+  width: 32%;
 }
